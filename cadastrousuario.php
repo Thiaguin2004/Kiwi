@@ -70,7 +70,7 @@ else
 			</tr>
 			<tr>
 				<td width="293">&nbsp;</td>
-				<td><input type="submit" value="<?php echo $botao;?>" name="B1"><input type="reset" value="Cancelar" name="B2"><p>
+				<td><input type="submit" value="incluir_usuario.php" name="B1"><input type="reset" value="Cancelar" name="B2"><p>
 				&nbsp;</td>
 			</tr>
 		</table>
